@@ -8,13 +8,11 @@ This repository is intended to be a living document. As I continue to learn and 
 
 ---
 
-### Current Structure
+## Current Structure
 
 - **Data Structures and Algorithms**: Includes pattern-based problems, solution walkthroughs, and core algorithm concepts.
 
-- **C++**: Focuses on pointers, memory management, STL usage, and common interview problems. Primarily for DSA.
-
-- **Java**: Covers language fundamentals, OOP concepts, collections, multithreading, and exception handling. For getting a stronger hold in OOPs and Software development.
+- **OOPs**: Covers principles of Object-Oriented Programming, design patterns, and practical implementation examples.
 
 - **DBMS**: Covers relational models, indexing, normalization, SQL queries, transactions, concurrency, and more.
 
@@ -28,8 +26,26 @@ This repository is intended to be a living document. As I continue to learn and 
 
 ---
 
-### Maintenance Plan
+## Roadmaps to follow
+
+- [Complete DBMS Roadmap](https://whimsical.com/dbms-roadmap-by-love-babbar-FmUi8ffVop33t3MmpVxPCo)
+
+- [Complete Computer Networks Roadmap](https://whimsical.com/networking-cheatsheet-by-love-babbar-FcLExFDezehhfsbDPfZDBv)
+
+- [Complete Operating Systems Roadmap](https://whimsical.com/operating-system-cheatsheet-by-love-babbar-S9tuWBCSQfzoBRF5EDNinQ)
+
+- [Complete Object Oriented Programming Roadmap](https://whimsical.com/object-oriented-programming-cheatsheet-by-love-babbar-YbSgLatbWQ4R5paV7EgqFw)
+
+---
+
+## Maintenance Plan
 
 To ensure this repository stays organized and current, I have structured it for consistent weekly updates. Each folder has its own `README.md` to serve as an index for quick navigation. I aim to add 3–5 questions or summaries each week, sourced from mock interviews, online contests, company-specific interview discussions, or reading material. As new subjects emerge during my preparation, I will expand the repository accordingly.
 
 This project also serves as a self-evaluation tool where I revisit topics in intervals, track mistakes, and refine explanations over time. For theoretical sections, I maintain concise write-ups followed by deeper elaboration where required. For coding-related areas, the focus is on patterns, dry runs, edge case analysis, and clean implementation.
+
+---
+
+## Contributing
+
+Do check the other markdown files in each folder and understand how I am maintaining the notes. If you have any suggestions, improvements, or additional questions to add, feel free to open an issue or submit a pull request. Your contributions are welcome!
