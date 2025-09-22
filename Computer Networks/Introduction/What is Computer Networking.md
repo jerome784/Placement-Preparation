@@ -34,7 +34,7 @@ Two fundamental characteristics are **scalability**, which allows easy addition 
 
 ## Types of Computer Networks
 
-![Types of Networks](images/Types of Networks.png)
+![Types of Networks](images/networks_type.png)
 
 ### 1. Local Area Network (LAN)
 - Covers a small geographical area like a home, office, or campus.
