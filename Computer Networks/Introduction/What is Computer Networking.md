@@ -4,7 +4,7 @@
 
 A **Computer Network** is an interconnected system of two or more computing devices that communicate and share resources (data, applications, hardware, etc.) through wired or wireless transmission media.
 
-![Computer Network](images/ComputerNetworks.webp)
+![Computer Network](images/computer_network.png)
 
 A computer network enables **data exchange**, **resource sharing**, and **communication services** (such as email, file transfer, and VoIP) among users and devices.
 
@@ -34,7 +34,7 @@ Two fundamental characteristics are **scalability**, which allows easy addition 
 
 ## Types of Computer Networks
 
-![Types of Networks](images/networks_type.png)
+
 
 ### 1. Local Area Network (LAN)
 - Covers a small geographical area like a home, office, or campus.
