@@ -14,6 +14,7 @@ Each topic is explained in detail with examples and diagrams to facilitate bette
 
   - [Types of Operating Systems](Introduction/2.%20Types%20of%20Operating%20Systems.md)
 
+  - [RAM vs ROM](Introduction/3.%20RAM%20vs%20ROM.md)
 
 
 ---
